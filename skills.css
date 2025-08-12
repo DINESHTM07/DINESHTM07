@@ -1,0 +1,18 @@
+@keyframes neonGlow {
+  0%   { box-shadow: 0 0 10px #ff00ff; }
+  25%  { box-shadow: 0 0 10px #00ffff; }
+  50%  { box-shadow: 0 0 10px #39ff14; }
+  75%  { box-shadow: 0 0 10px #ffff00; }
+  100% { box-shadow: 0 0 10px #ff00ff; }
+}
+
+.skill-icons a img {
+  margin: 10px;
+  transition: transform 0.3s ease;
+  border-radius: 8px;
+}
+
+.skill-icons a img:hover {
+  transform: scale(1.2);
+  animation: neonGlow 1.5s infinite alternate;
+}
