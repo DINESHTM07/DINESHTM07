@@ -132,8 +132,15 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dinesh-s-47a11a28a/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dineshcreativedev/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="50" style="margin-right: 30px;" />
+  </a>
+  <a href="mailto:duke02101@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" width="50" style="margin-right: 30px;" />
+  </a>
+  <a href="https://www.instagram.com/itz_dinesh._07?igsh=ejl1MzZrOWl2M3lr" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" alt="Instagram" width="50" />
+  </a>
 </p>
 
 ---
