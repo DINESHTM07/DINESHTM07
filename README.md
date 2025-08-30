@@ -62,57 +62,71 @@
 <th style="padding:10px; border: 1px solid #333;">Tech Stack</th>
 <th style="padding:10px; border: 1px solid #333;">Live Demo</th>
 </tr>
-<tr>
+  <tr>
 <td style="padding:10px; border: 1px solid #333;">1</td>
+<td style="padding:10px; border: 1px solid #333;">Modern Furniture Store Website!</td>
+<td style="padding:10px; border: 1px solid #333;"><code>HTML5</code>, <code>CSS3</code>, <code>BOOTSTRAP 4</code></td>
+<td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
+<td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/BEG-FURNITURE-STORE/" style="color:#00FFD1;">🌐 Live</a></td>
+</tr>
+  <tr>
+<td style="padding:10px; border: 1px solid #333;">2</td>
+<td style="padding:10px; border: 1px solid #333;"> Luxury Portfolio Website</td>
+<td style="padding:10px; border: 1px solid #333;"><code>HTML5</code>, <code>CSS3</code>, <code>BOOTSTRAP 4</code></td>
+<td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
+<td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/BEG-LUXURY-PORTFOLIO/" style="color:#00FFD1;">🌐 Live</a></td>
+</tr>
+<tr>
+<td style="padding:10px; border: 1px solid #333;">3</td>
 <td style="padding:10px; border: 1px solid #333;">Shoes E-commerce website</td>
 <td style="padding:10px; border: 1px solid #333;"><code>HTML5</code>, <code>CSS3</code>, <code>BOOTSTRAP 4</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/SHOES-E-COMMERCE-WEBSITE/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">2</td>
+<td style="padding:10px; border: 1px solid #333;">4</td>
 <td style="padding:10px; border: 1px solid #333;">Digital Agency</td>
 <td style="padding:10px; border: 1px solid #333;"><code>CSS3</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/DIGITAL-AGENCY-CSS/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">3</td>
+<td style="padding:10px; border: 1px solid #333;">5</td>
 <td style="padding:10px; border: 1px solid #333;">Fashion Store</td>
 <td style="padding:10px; border: 1px solid #333;"><code>CSS3</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/FASHION-STORE-CSS/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">4</td>
+<td style="padding:10px; border: 1px solid #333;">6</td>
 <td style="padding:10px; border: 1px solid #333;">Navbar Dark</td>
 <td style="padding:10px; border: 1px solid #333;"><code>CSS3</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/NAVBAR-DARK/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">5</td>
+<td style="padding:10px; border: 1px solid #333;">7</td>
 <td style="padding:10px; border: 1px solid #333;">Flexbox Landing Page</td>
 <td style="padding:10px; border: 1px solid #333;"><code>Flexbox</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">6</td>
+<td style="padding:10px; border: 1px solid #333;">8</td>
 <td style="padding:10px; border: 1px solid #333;">Admin Dashboard</td>
 <td style="padding:10px; border: 1px solid #333;"><code>HTML5</code>, <code>CSS3</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/ADMIN-DASHBOARD/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">7</td>
+<td style="padding:10px; border: 1px solid #333;">9</td>
 <td style="padding:10px; border: 1px solid #333;">Beginner Portfolio</td>
 <td style="padding:10px; border: 1px solid #333;"><code>HTML5</code>, <code>CSS3</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS</td>
 <td style="padding:10px; border: 1px solid #333;"><a href="https://dineshtm07.github.io/BEG-PORTFOLIO/" style="color:#00FFD1;">🌐 Live</a></td>
 </tr>
 <tr>
-<td style="padding:10px; border: 1px solid #333;">8</td>
+<td style="padding:10px; border: 1px solid #333;">10</td>
 <td style="padding:10px; border: 1px solid #333;">Candy Baby</td>
 <td style="padding:10px; border: 1px solid #333;"><code>Bootstrap 4</code></td>
 <td style="padding:10px; border: 1px solid #333;">HTML, CSS, Bootstrap 4</td>
