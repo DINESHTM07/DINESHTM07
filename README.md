@@ -1,8 +1,9 @@
 <div align="center">
 
-<!-- 🚀 Futuristic Gradient Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=1500&size=60&duration=2000&pause=600&color=8A2BE2,00E5FF&background=000000&center=true&vCenter=true&width=1200&height=200&lines=Dinesh+Senthilkumar;Full-Stack+Engineer;MERN+Stack+Developer;UI%2FUX+Craftsman;Problem+Solver;Open-Source+Contributor;Building+Next-Gen+Designes" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2400&pause=700&color=ff6ec7&center=true&vCenter=true&width=1300&height=120&lines=%F0%9F%9A%80+Dinesh+S;%F0%9F%94%A5+Frontend+%26+JavaScript+Developer;%E2%9A%A1+MERN+Stack+Learner;%F0%9F%93%BB+Building+Next-Gen+UI%2FUX+%26+Dynamic+Apps" alt="Typing SVG" />
 
 <!-- Neon Gradient Divider -->
 
@@ -10,7 +11,7 @@
 
 </div>
 
----
+-- 
 
 <p align="center">
   <strong>Hi — I’m Dinesh (Frontend & JavaScript Developer)</strong> 👋
