@@ -50,77 +50,148 @@
 
 
 ---
-<p align="center">🚀 <strong>First Step in DOM Manipulation & Interactive Web Projects</strong></p> <p align="center"> Welcome to my <strong>frontend playground</strong>, where I transform ideas into interactive web experiences. This collection highlights <strong>my journey learning JavaScript, DOM manipulation, and UI/UX design</strong>, featuring projects that range from <strong>utility apps and games to personalized creative gifts</strong>. Each project reflects a hands-on approach to <strong>problem-solving, interactivity, and modern web practices</strong>. Dive in, explore live demos, and see how code comes to life! </p> <p align="center">A selection of polished frontend experiments and interactive JS projects.</p> <table align="center" style="border-collapse: collapse; width:100%;"> <thead> <tr style="background:#0d1117; color:#fff;"> <th style="padding:10px; border:1px solid #222;">#</th> <th style="padding:10px; border:1px solid #222;">Project</th> <th style="padding:10px; border:1px solid #222;">Tags</th> <th style="padding:10px; border:1px solid #222;">Stack</th> <th style="padding:10px; border:1px solid #222;">Live / Repo</th> </tr> </thead> <tbody> <tr> <td style="padding:10px; border:1px solid #222;">1</td> <td style="padding:10px; border:1px solid #222;"><strong>Simple Calculator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/SIMPLE-CALCULARTOR/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/SIMPLE-CALCULARTOR">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">2</td> <td style="padding:10px; border:1px solid #222;"><strong>Random Quote Generator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/QUOTES-GENERATOR/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/QUOTES-GENERATOR">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">3</td> <td style="padding:10px; border:1px solid #222;"><strong>String Playground</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/STRING-PLAYGROUND/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/STRING-PLAYGROUND">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">4</td> <td style="padding:10px; border:1px solid #222;"><strong>To-Do Manager</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/TO-DO--MANAGER/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/TO-DO--MANAGER">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">5</td> <td style="padding:10px; border:1px solid #222;"><strong>Weather App</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/API-0ABDE3?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/API-0ABDE3?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/WEATHER-API-BASIC/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/WEATHER-API-BASIC">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">6</td> <td style="padding:10px; border:1px solid #222;"><strong>Glassmorphism Calculator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/UI-Design-FF6F61?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/UI-Design-FF6F61?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/GLASSMORPHISM-CALCULATOR/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/GLASSMORPHISM-CALCULATOR">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">7</td> <td style="padding:10px; border:1px solid #222;"><strong>Password Generator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/PASSWORD-GENERATOR-BASIC/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/PASSWORD-GENERATOR-BASIC">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">8</td> <td style="padding:10px; border:1px solid #222;"><strong>Stone Paper Scissors Game</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GameDev-8E44AD?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/GameDev-8E44AD?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/SIMPLE-GAME-SPS/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/SIMPLE-GAME-SPS">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">9</td> <td style="padding:10px; border:1px solid #222;"><strong>For Kulla — From Theodore</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/DOM-Manipulation-FF6347?style=for-the-badge"> <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/DOM-Manipulation-FF6347?style=for-the-badge"> <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/FIRST-DOM-RandomQuoteGenerator/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/FIRST-DOM-RandomQuoteGenerator">💻 Repo</a> </td> </tr> </tbody> </table>
+<p align="center">🚀 <strong>First Step in DOM Manipulation & Interactive Web Projects</strong></p> <p align="center"> Welcome to my <strong>frontend playground</strong>, where I transform ideas into interactive web experiences. This collection highlights <strong>my journey learning JavaScript, DOM manipulation, and UI/UX design</strong>, featuring projects that range from <strong>utility apps and games to personalized creative gifts</strong>. Each project reflects a hands-on approach to <strong>problem-solving, interactivity, and modern web practices</strong>. Dive in, explore live demos, and see how code comes to life! </p> <p align="center">A selection of polished frontend experiments and interactive JS projects.</p> <table align="center" style="border-collapse: collapse; width:100%;"> <thead> <tr style="background:#0d1117; color:#fff;"> <th style="padding:10px; border:1px solid #222;">#</th> <th style="padding:10px; border:1px solid #222;">Project</th> <th style="padding:10px; border:1px solid #222;">Tags</th> <th style="padding:10px; border:1px solid #222;">Stack</th> <th style="padding:10px; border:1px solid #222;">Live / Repo</th> </tr> </thead> <tbody> <tr> <td style="padding:10px; border:1px solid #222;">1</td> <td style="padding:10px; border:1px solid #222;"><strong>Simple Calculator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/SIMPLE-CALCULARTOR/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/SIMPLE-CALCULARTOR">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">2</td> <td style="padding:10px; border:1px solid #222;"><strong>Random Quote Generator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/QUOTES-GENERATOR/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/QUOTES-GENERATOR">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">3</td> <td style="padding:10px; border:1px solid #222;"><strong>String Playground</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/STRING-PLAYGROUND/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/STRING-PLAYGROUND">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">4</td> <td style="padding:10px; border:1px solid #222;"><strong>To-Do Manager</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/TO-DO--MANAGER/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/TO-DO--MANAGER">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">5</td> <td style="padding:10px; border:1px solid #222;"><strong>Weather App</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/API-0ABDE3?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/API-0ABDE3?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/WEATHER-API-BASIC/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/WEATHER-API-BASIC">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">6</td> <td style="padding:10px; border:1px solid #222;"><strong>Glassmorphism Calculator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/UI-Design-FF6F61?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/UI-Design-FF6F61?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/GLASSMORPHISM-CALCULATOR/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/GLASSMORPHISM-CALCULATOR">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">7</td> <td style="padding:10px; border:1px solid #222;"><strong>Password Generator</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/PASSWORD-GENERATOR-BASIC/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/PASSWORD-GENERATOR-BASIC">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">8</td> <td style="padding:10px; border:1px solid #222;"><strong>Stone Paper Scissors Game</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GameDev-8E44AD?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/GameDev-8E44AD?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/SIMPLE-GAME-SPS/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/SIMPLE-GAME-SPS">💻 Repo</a> </td> </tr> <tr> <td style="padding:10px; border:1px solid #222;">9</td> <td style="padding:10px; border:1px solid #222;"><strong>For Kulla — From Theodore</strong></td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/DOM-Manipulation-FF6347?style=for-the-badge"> <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge"> <img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge"> <img src="https://img.shields.io/badge/DOM-Manipulation-FF6347?style=for-the-badge"> <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge"> </td> <td style="padding:10px; border:1px solid #222;"> <a href="https://dineshtm07.github.io/FIRST-DOM-RandomQuoteGenerator/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/FIRST-DOM-RandomQuoteGenerator">💻 Repo</a> </td> </tr> </tbody> </table> 
+
+
 ## 👑 Projects — HTML & CSS
 
-<p align="center">A selection of polished frontend experiments and landing pages.</p>
+<p align="center">🚀 <strong>Frontend Projects Portfolio</strong></p>
+<p align="center">
+Explore my <strong>modern, responsive, and interactive web projects</strong>. 
+Built with HTML, CSS, Bootstrap, and Flexbox, these projects showcase my <strong>frontend skills, UI/UX design, and creative coding</strong>.
+</p>
 
-<table align="center" style="border-collapse: collapse; width:100%;">
+<table align="center" style="border-collapse: collapse; width:100%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 <thead>
-<tr style="background:#0d1117; color:#fff;">
-<th style="padding:10px; border:1px solid #222;">#</th>
-<th style="padding:10px; border:1px solid #222;">Project</th>
-<th style="padding:10px; border:1px solid #222;">Tags</th>
-<th style="padding:10px; border:1px solid #222;">Stack</th>
-<th style="padding:10px; border:1px solid #222;">Live / Repo</th>
+<tr style="background: linear-gradient(90deg, #0d1117, #161b22); color:#fff; text-transform: uppercase;">
+<th style="padding:12px; border:1px solid #222;">#</th>
+<th style="padding:12px; border:1px solid #222;">Project</th>
+<th style="padding:12px; border:1px solid #222;">Tags</th>
+<th style="padding:12px; border:1px solid #222;">Stack</th>
+<th style="padding:12px; border:1px solid #222;">Live / Repo</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="padding:10px; border:1px solid #222;">1</td>
+
+<tr style="background:#111827; transition: all 0.3s;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">1</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Modern Furniture Store</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>HTML5</code>, <code>CSS3</code>, <code>Bootstrap</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/BEG-FURNITURE-STORE/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/BEG-FURNITURE-STORE">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/BEG-FURNITURE-STORE/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/BEG-FURNITURE-STORE" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
 
-<tr>
-<td style="padding:10px; border:1px solid #222;">2</td>
+<tr style="background:#1b1f28;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">2</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Luxury Portfolio</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>HTML5</code>, <code>CSS3</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/BEG-LUXURY-PORTFOLIO/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/BEG-LUXURY-PORTFOLIO">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/BEG-LUXURY-PORTFOLIO/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/BEG-LUXURY-PORTFOLIO" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
 
-<tr>
-<td style="padding:10px; border:1px solid #222;">3</td>
+<tr style="background:#111827;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">3</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Shoes E-commerce</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>HTML5</code>, <code>CSS3</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/SHOES-E-COMMERCE-WEBSITE/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/SHOES-E-COMMERCE-WEBSITE">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/SHOES-E-COMMERCE-WEBSITE/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/SHOES-E-COMMERCE-WEBSITE" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
 
-<tr>
-<td style="padding:10px; border:1px solid #222;">4</td>
+<tr style="background:#1b1f28;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">4</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Flexbox Landing Page</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>Flexbox</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/FLEXBOX-LANDING-PAGE">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/Flexbox-FF6347?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/FLEXBOX-LANDING-PAGE/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/FLEXBOX-LANDING-PAGE" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
 
-<tr>
-<td style="padding:10px; border:1px solid #222;">5</td>
+<tr style="background:#111827;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">5</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Admin Dashboard</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>HTML5</code>, <code>CSS3</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/ADMIN-DASHBOARD/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/ADMIN-DASHBOARD">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/ADMIN-DASHBOARD/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/ADMIN-DASHBOARD" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
 
-<tr>
-<td style="padding:10px; border:1px solid #222;">6</td>
+<tr style="background:#1b1f28;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">6</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Beginner Portfolio</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>HTML5</code>, <code>CSS3</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/BEG-PORTFOLIO/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/BEG-PORTFOLIO">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/BEG-PORTFOLIO/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/BEG-PORTFOLIO" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
 
-<tr>
-<td style="padding:10px; border:1px solid #222;">7</td>
+<tr style="background:#111827;">
+<td style="padding:10px; border:1px solid #222; text-align:center;">7</td>
 <td style="padding:10px; border:1px solid #222;"><strong>Candy Baby (Bootstrap)</strong></td>
-<td style="padding:10px; border:1px solid #222;"><code>Bootstrap</code></td>
-<td style="padding:10px; border:1px solid #222;">HTML, CSS, Bootstrap</td>
-<td style="padding:10px; border:1px solid #222;"><a href="https://dineshtm07.github.io/CANDY-BABY-BS4/">🌐 Live</a> | <a href="https://github.com/DINESHTM07/CANDY-BABY-BS4">💻 Repo</a></td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge">
+</td>
+<td style="padding:10px; border:1px solid #222;">
+<a href="https://dineshtm07.github.io/CANDY-BABY-BS4/" style="text-decoration:none;">🌐 Live</a> | 
+<a href="https://github.com/DINESHTM07/CANDY-BABY-BS4" style="text-decoration:none;">💻 Repo</a>
+</td>
 </tr>
+
 </tbody>
 </table>
 
