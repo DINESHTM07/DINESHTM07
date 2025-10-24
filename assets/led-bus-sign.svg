@@ -1,0 +1,48 @@
+<svg width="1200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- LED Bus Sign Background -->
+  <rect width="1200" height="100" fill="#000000"/>
+  
+  <!-- LED Text Animation -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+    
+    .led-text {
+      font-family: 'Orbitron', monospace;
+      font-size: 36px;
+      font-weight: 900;
+      fill: #FFD700;
+      text-shadow: 0 0 10px #FFD700, 0 0 20px #FFD700, 0 0 30px #FF8C00;
+    }
+    
+    .scroll {
+      animation: scroll-left 20s linear infinite;
+    }
+    
+    @keyframes scroll-left {
+      0% { transform: translateX(1200px); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+  
+  <!-- Scrolling LED Text -->
+  <g class="scroll">
+    <text class="led-text" x="0" y="60">
+      🚍 DINESH SENTHILKUMAR 🚍 ⚡ FRONTEND & JAVASCRIPT DEVELOPER ⚡ 🎨 CRAFTING INTERACTIVE UX EXPERIENCES 🎨 💻 RESPONSIVE | MODERN | PIXEL-PERFECT 💻 🚀 AVAILABLE FOR FREELANCE & COLLABORATION 🚀
+    </text>
+  </g>
+  
+  <!-- LED Dots Border Effect -->
+  <circle cx="10" cy="10" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="30" cy="10" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="50" cy="10" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="1150" cy="10" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="1170" cy="10" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="1190" cy="10" r="3" fill="#FFD700" opacity="0.7"/>
+  
+  <circle cx="10" cy="90" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="30" cy="90" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="50" cy="90" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="1150" cy="90" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="1170" cy="90" r="3" fill="#FFD700" opacity="0.7"/>
+  <circle cx="1190" cy="90" r="3" fill="#FFD700" opacity="0.7"/>
+</svg>
