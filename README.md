@@ -283,27 +283,24 @@ Built with HTML, CSS, Bootstrap, and Flexbox, these projects showcase my <strong
 > **Hire / Collaborate:** [duke02101@gmail.com](mailto:duke02101@gmail.com) • Open for freelance & front-end roles
 <!-- Wave footer (subtle) -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="wave footer" />
-</p>
-<!-- 🌊 WAVE ANIMATION - FOOTER WITH RED LED GIF                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Wave Footer" />
+
+  
   
   <p style="margin-top: 20px;">
     <img src="./assets/bus-led-red.gif" alt="Red LED Footer Animation" width="60%" style="max-width: 600px;" />
   </p>
   
   <p>
-    <em>Thanks for visiting! Have a great day! 🚍✨</em>
+    <em>Thanks for visiting! Have a great day! ✨</em>
   </p>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Bottom Border" />
 </div>
 
----
+
 
 <div align="center">
   <sub>Built with ❤️ by DINESHTM07</sub>
